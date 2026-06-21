@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "ttrpg-spell-creator",
+	"name": "TTRPG Spell Creator",
+	"version": "0.1.1",
 	"minAppVersion": "1.0.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A plugin for Obsidian.md that allows for the quick creation of spells for ttrpgs.",
+	"author": "P1ckleP1zza",
+	"authorUrl": "https://github.com/P1ckleP1zza",
 	"isDesktopOnly": false
 }
